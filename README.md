@@ -1,7 +1,6 @@
 <h1 align="center"> ✨ Hello world !✨ </h1>
 
 
-**A Software Engineer :computer: .**<br>
  
 ### I invite you to check out my [repositories](https://github.com/Mohamab29?tab=repositories) :floppy_disk: 
 
